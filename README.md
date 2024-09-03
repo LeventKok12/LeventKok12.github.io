@@ -3,7 +3,6 @@
 Levent Kök
 <p align="center">
 
-Doruk Ersoy
 <br>
 </p>
 <p align="center">
