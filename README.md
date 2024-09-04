@@ -6,6 +6,8 @@ Levent Kök
 <href="https//LeventKok12.github.io"/>home</a> /
 <href="https//LeventKok12.github.io/PROJECTS.md"/>projects</a> /
 <href="https//LeventKok12.github.io/develop in swift.md"/>develop in swift</a> /
+<href="https//LeventKok12.github.io/CS 50 Course.md"/>CS 50 Course</a> /
+
   
 <br>
 </p>
