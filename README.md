@@ -51,9 +51,9 @@
         <p>Home/Cs-50course/Projects/Develop in Swift</p>
     </header>
     <nav>
-        <a href="https://ziyarko.github.io/DEVELOPWSWIFT.html">Develop in Swift</a>
-        <a href="https://ziyarko.github.io/PROJECTS.html">Projects</a>
-        <a href="https://ziyarko.github.io/CS-50COURSE.html">Cs-50Course</a>
+        <a href="https://LeventKok12.github.io/DEVELOPWSWIFT.html">Develop in Swift</a>
+        <a href="https://LeventKok12.github.io/PROJECTS.html">Projects</a>
+        <a href="https://LeventKok12.github.io/CS-50COURSE.html">Cs-50Course</a>
     </nav>
     <main>
         <h2>About Me</h2>
