@@ -57,7 +57,7 @@
     </nav>
     <main>
         <h2>About Me</h2>
-        <p>Hello!  My name is Levent, and I am a 10th grade student at Hisar. I playing basketball. I chose AP Computer Science to learn basic coding skills that I am intrested in and will be usefull in life.</p>
+        <p>Hello!  My name is Levent, and I am a 10th grade student at Hisar. I play basketball. I chose AP Computer Science to learn basic coding skills that I am intrested in and will be usefull in life.</p>
        
    <hr>
     </main>
