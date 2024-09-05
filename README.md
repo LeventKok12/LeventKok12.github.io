@@ -4,9 +4,9 @@ Levent Kök
 <p align="center">
 <br>
 <href="https//LeventKok12.github.io"/>home</a> /
-<href="https//LeventKok12.github.io/PROJECTS.md"/>projects</a> /
-<href="https//LeventKok12.github.io/develop in swift.md"/>develop in swift</a> /
-<href="https//LeventKok12.github.io/CS 50 Course.md"/>CS 50 Course</a> 
+<href="https//LeventKok12.github.io/PROJECTS.html"/>projects</a> /
+<href="https//LeventKok12.github.io/develop in swift.html"/>develop in swift</a> /
+<href="https//LeventKok12.github.io/CS 50 Course.html"/>CS 50 Course</a> 
 
   
 <br>
