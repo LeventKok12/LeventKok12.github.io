@@ -9,28 +9,42 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background-color: #f9f9f9;
             color: #333;
             text-align: center;
         }
         header {
             background-color: #333;
-            color: #fff;
+            color: white;
             padding: 1em 0;
         }
-        nav a {
-            color: #fff;
-            margin: 0 15px;
+        header nav a {
+            color: white;
             text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
         }
-        .content {
+        header nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
             padding: 2em;
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        .content h1 {
-            margin: 0;
+        h1 {
+            margin-top: 0;
         }
-        .content p {
+        p {
             line-height: 1.6;
+        }
+        footer {
+            padding: 1em 0;
+            background-color: #333;
+            color: white;
+            text-align: center;
         }
     </style>
 </head>
@@ -45,12 +59,16 @@
         </nav>
     </header>
 
-    <div class="content">
+    <div class="container">
         <h1>Hello, I'm Levent Kök</h1>
         <p>
-            Hello, my name is Levent Kök. I am a student at Hisar. I chose CS because I want to learn the basics of programming that could be useful later on in life.
+            Hello, my name is Levent Kök. I am a student at Hisar. I chose Computer Science because I want to learn the basics of programming that could be useful later on in life.
         </p>
     </div>
+
+    <footer>
+        &copy; 2024 Levent Kök. All rights reserved.
+    </footer>
 
 </body>
 </html>
