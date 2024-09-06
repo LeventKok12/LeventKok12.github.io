@@ -48,7 +48,7 @@
 <body>
     <header>
         <h1>Levent Kök</h1>
-        <p>Home/Cs-50course/Projects/Develop in Swift</p>
+        <a href="https:Cs-50course/Projects/Develop in Swift</a>
     </header>
     <nav>
         <a href="https://LeventKok12.github.io/DEVELOPWSWIFT.html">Develop in Swift</a>
