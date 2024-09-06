@@ -1,10 +1,11 @@
 # Projects
+
+Connect four
 https://scratch.mit.edu/projects/1063907910
 
 
 
 Project 1:
-
 I went to github and opened up an account.
 I first created a repository.
 I made and wrote an “about me” section for my site
